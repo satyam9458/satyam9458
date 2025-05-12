@@ -1,3 +1,4 @@
+![logo](https://github.com/satyam9458/satyam9458/blob/main/Developer%20cover%20photo1.png)
 <h1 align="center">Hi 👋, I'm Satyam Singh</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
